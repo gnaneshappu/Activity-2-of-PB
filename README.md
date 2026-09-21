@@ -1,3 +1,5 @@
+# Activity 3 - Collaborative Coding with GitLens and Live Share
+
 ## Collaboration Log
 
 - **Pairing Partner:** Devika N Y
